@@ -1,3 +1,3 @@
 brainfuck:
-	cc brainfuck.c -o brainfuck
+	cc ./src/brainfuck.c -o brainfuck
 
