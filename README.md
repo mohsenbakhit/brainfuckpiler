@@ -26,9 +26,8 @@ The code.txt provided is the txt needed to print "Hello World"
 ## Next Steps
 The interpreter includes a basic error handling mechanism and should work for most standard Brainfuck programs. However, it is a simple implementation and may not cover all edge cases or optimizations.
 
-1. My plan is to implement testing for the program to ensure it covers all of its basis.
-2. Optimize the compiler by using some form of asm language which allows me more access to the machine.
-3. Maybe implement some sort of GUI, but I am not sure about that yet.
+1. Implement testing
+2. Implement garbage collection
 
 ## LICENSE
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
