@@ -1,4 +1,4 @@
-# Brainfuckpiler
+# Brainf***piler
 ### A C-based compiler for the esoteric Turing-complete language Brainfuck.
 
 ## Features
